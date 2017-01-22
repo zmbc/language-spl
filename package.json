@@ -2,7 +2,7 @@
   "name": "language-spl",
   "version": "0.0.0",
   "description": "Shakespeare Programming Language syntax grammar",
-  "repository": "https://github.com/zmbc/language-shakespeare",
+  "repository": "https://github.com/zmbc/language-spl",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
