@@ -1,6 +1,6 @@
 {
   "name": "language-shakespeare",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Shakespeare Programming Language syntax grammar",
   "repository": "https://github.com/zmbc/language-shakespeare",
   "license": "MIT",
