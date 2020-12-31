@@ -1,6 +1,6 @@
 {
   "name": "language-spl",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Shakespeare Programming Language syntax grammar",
   "repository": "https://github.com/zmbc/language-spl",
   "license": "MIT",
